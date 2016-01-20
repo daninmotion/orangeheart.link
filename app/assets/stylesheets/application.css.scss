@@ -30,7 +30,7 @@ html, body {
 	padding-top: 4%;
 }
 
-/***row***/
+/*** facilcorp row***/
 
 #section {
 	background: #0084B4;
@@ -59,6 +59,32 @@ html, body {
 	margin-left: 5%;
 }
 
+/***tipple row***/
+
+#tipple {
+	margin-top: 5%;
+	padding-bottom: 5%;
+}
+
+#tipple img {
+	margin-top: -5%;
+	float: right;
+	margin-right: 8%;
+}
+
+#tipple h1 {
+	color: black;
+	padding-top: 3%;
+	font-size: 50px;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 900;
+}
+
+#tipple p {
+	font-size: 25px;
+}
+
+/***team row***/
 
 #team {
 	padding-top: 1%;
